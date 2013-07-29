@@ -4,3 +4,5 @@ burgundy
 alizarin
 blood 
 wine
+firetruck
+ladybug
