@@ -1,8 +1,9 @@
-scarlet
-burgundy
 alizarin
 blood 
-wine
+burgundy
+cherry
 firetruck
 ladybug
-cherry
+scarlet
+wine
+

@@ -1,8 +1,9 @@
+aqua
+azure
 cobalt
 indigo
-aqua
 navy
-royal
-prussian
-sky
 pool
+prussian
+royal
+sky
