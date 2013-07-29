@@ -1,7 +1,7 @@
-scarlet
-burgundy
 alizarin
 blood 
-wine
+burgundy
 firetruck
 ladybug
+scarlet
+wine
