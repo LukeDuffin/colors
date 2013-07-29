@@ -7,3 +7,5 @@ pool
 prussian
 royal
 sky
+delft
+smurf

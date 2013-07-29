@@ -6,4 +6,6 @@ firetruck
 ladybug
 scarlet
 wine
+strawberry
+sunset
 
