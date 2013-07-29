@@ -3,3 +3,4 @@ cobalt
 indigo
 cyan
 aqua
+navy
