@@ -2,3 +2,6 @@ cobalt
 indigo
 aqua
 navy
+royal
+prussian
+sky
