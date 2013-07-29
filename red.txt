@@ -8,4 +8,5 @@ scarlet
 wine
 strawberry
 sunset
-
+opaque
+ocean spray
